@@ -1,7 +1,5 @@
 # ESR02
 Repository of ESR02
-
-<<<<<<< HEAD
 The PARENT project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Innovative Training Network 2020, Grant Agreement N° 956394.
 
 Cite the works by 
@@ -16,4 +14,4 @@ Cite the works by
 Cite Facial Recognition and Expression Analysis work by Shah, S. T. H., Shah, S. A. H., Qureshi, S. A., Di Terlizzi, A., & Deriu, M. A. (2023). Automated facial characterization and image retrieval by convolutional neural networks. Frontiers in Artificial Intelligence, 6, 1230383, doihttps://doi.org/10.3389/frai.2023.1230383.
 
 The PARENT project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Innovative Training Network 2020, Grant Agreement N° 956394.
->>>>>>> 40a7c88e335ee09e0ac03eb256f75b46c5b81dcd
+=======
